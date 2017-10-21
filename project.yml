@@ -1,6 +1,22 @@
-title          : Your Project Title
-description    : This is the description of your project.
+title          : "Dr. Semmelweis and the discovery of handwashing"
+description    : >
+  Description description description. 
 language       : python
-from           : 'python-notebooks-prod:28'
+from           : 'python-notebooks-prod:56'
 runtime_config : default
-technology     : 2
+state          : development
+long_description: |
+  A really really
+  really really
+  lomng long description!
+technology: 2
+instructors:
+  - rasmus@datacamp.com
+#collaborators:
+#  - martijn@datacamp.com
+topics:
+  - 8
+  - 4
+  - 3
+time_needed: "60 minutes"
+illustration: "https://assets.datacamp.com/production/project_10/datasets/shield_image.png"
