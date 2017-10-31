@@ -1,0 +1,1 @@
+Hi, I'm Rasmus Bååth I'm an instructor at DataCamp. So I've made a DataCamp project that will allow you to flex you Pandas skills. You'll reanalyse the data of Ignas Semmelweis, the Hungarian doctor who in the 1800s discovered handwashing. Yes there was a time when nobody, not even doctors, washed their hands! Ok, so I hope you'll enjoy it! Good luck!
