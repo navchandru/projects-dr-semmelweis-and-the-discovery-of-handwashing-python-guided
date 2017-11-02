@@ -6,7 +6,7 @@ from           : 'python-notebooks-prod:56'
 runtime_config : default
 state          : development
 long_description: |
-  A really really
+  A really really 
   really really
   long long description!
 technology: 2
