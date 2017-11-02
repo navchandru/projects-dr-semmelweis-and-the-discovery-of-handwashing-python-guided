@@ -1,4 +1,4 @@
-# pip3 install pandas==0.19.1
+pip3 install pandas==0.21.0
 
 DATADIR=/home/repl/datasets
 ASSETURL=https://s3.amazonaws.com/assets.datacamp.com/production/project_20/datasets
