@@ -12,8 +12,7 @@ long_description: |
 technology: 2
 instructors:
   - rasmus@datacamp.com
-#collaborators:
-#  - martijn@datacamp.com
+collaborators: []
 topics:
   - 8
   - 4
