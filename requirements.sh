@@ -7,7 +7,7 @@ FILES="monthly_deaths.csv yearly_deaths_by_clinic.csv"
 mkdir -p $DATADIR
 for FILE in $FILES
 do
-	echo wget -O $DATADIR/$FILE $ASSETURL/$FILE
+	wget -O $DATADIR/$FILE $ASSETURL/$FILE
 done
 
 
