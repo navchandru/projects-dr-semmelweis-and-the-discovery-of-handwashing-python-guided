@@ -12,7 +12,7 @@ long_description: |
 language       : python
 from           : 'python-notebooks-prod:56'
 runtime_config : default
-state          : development
+state          : live
 technology: 2
 instructors:
   - rasmus@datacamp.com
