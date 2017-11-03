@@ -1,6 +1,4 @@
-# Your Project Title Here
+# Dr. Semmelweis and the discovery of handwashing
 
-## Project development resources
-
-* Project admin page: https://www.datacamp.com/teach/
-* Technical documentation: https://www.datacamp.com/teach/documentation
+* Project admin page: https://www.datacamp.com/teach/repositories/1743/branches/master
+* Live project: https://projects.datacamp.com/projects/20
