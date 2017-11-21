@@ -10,7 +10,7 @@ long_description: |
   - <a href="https://www.datacamp.com/courses/pandas-foundations" target="_blank">pandas Foundations</a>
   - <a href="https://www.datacamp.com/courses/statistical-thinking-in-python-part-2" target="_blank">Statistical Thinking in Python (Part 2)</a>
 language       : python
-from           : 'python-notebooks-prod:61'
+from           : 'python-notebooks-prod:93'
 runtime_config : default
 state          : live
 technology: 2
