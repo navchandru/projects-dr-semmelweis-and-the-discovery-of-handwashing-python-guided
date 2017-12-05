@@ -1,0 +1,24 @@
+﻿1
+00:00:00,390 --> 00:00:04,860
+Hi, I'm Rasmus Bååth and I'm an instructor at DataCamp.
+
+2
+00:00:04,860 --> 00:00:10,460
+So I've made a DataCamp project that will allow you to flex your pandas skills.
+
+3
+00:00:10,460 --> 00:00:13,970
+You'll reanalyze the data of Ignaz Semmelweis,
+
+4
+00:00:13,990 --> 00:00:18,600
+the Hungarian doctor who in the 1800s discovered handwashing.
+
+5
+00:00:18,600 --> 00:00:24,170
+Yes, there was a time when nobody washed their hands, not even doctors.
+
+6
+00:00:24,180 --> 00:00:28,620
+Ok, so I hope you'll enjoy it, and good luck.
+
