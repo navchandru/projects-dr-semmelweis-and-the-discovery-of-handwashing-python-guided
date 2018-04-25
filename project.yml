@@ -17,8 +17,9 @@ instructors:
   - rasmus@datacamp.com
 collaborators: []
 prerequisites:
-  - 799
   - 1639
+  - 1650
+  - 1550
 difficulty_level: 2
 topics:
   - 3
