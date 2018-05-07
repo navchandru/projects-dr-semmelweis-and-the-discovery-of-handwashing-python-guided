@@ -14,7 +14,7 @@ runtime_config : default
 state          : live
 technology: 2
 instructors:
-  - rasmus@datacamp.com
+  - rasmus.baath@gmail.com
 collaborators: []
 prerequisites:
   - 1639
