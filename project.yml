@@ -22,8 +22,9 @@ prerequisites:
   - 1550
 difficulty_level: 2
 topics:
+  - 8
   - 3
   - 4
-  - 12
+  - 7
 time_needed: "60 minutes"
 illustration: "https://s3.amazonaws.com/assets.datacamp.com/production/project_20/datasets/project_image.png"
