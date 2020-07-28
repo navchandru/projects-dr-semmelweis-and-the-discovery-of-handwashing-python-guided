@@ -17,9 +17,8 @@ instructors:
   - rasmus.baath@gmail.com
 collaborators: []
 prerequisites:
-  - 1639
-  - 1650
-  - 1550
+  - 22066 # Data Manipulation with pandas
+  - 1550 # Statistical Thinking in Python Part 2
 difficulty_level: 2
 topics:
   - 8
