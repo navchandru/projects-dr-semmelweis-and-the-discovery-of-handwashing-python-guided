@@ -4,11 +4,7 @@ description    : >
 long_description: |
   In 1847, the Hungarian physician Ignaz Semmelweis makes a breakthough discovery: He discovers handwashing. Contaminated hands was a major cause of childbed fever and by enforcing handwashing at his hospital he saved hundreds of lives. 
 
-  In this python project we will reanalyze the medical data Semmelweis collected. This project assumes that you are familiar with python and pandas DataFrames. You will also perform a bootstrap analysis. You can learn the required skills in these courses:
-
-  - <a href="https://www.datacamp.com/courses/intermediate-python-for-data-science" target="_blank">Intermediate Python for Data Science</a>
-  - <a href="https://learn.datacamp.com/courses/data-manipulation-with-pandas" target="_blank">Data Manipulation with pandas</a>
-  - <a href="https://learn.datacamp.com/courses/statistical-thinking-in-python-part-2" target="_blank">Statistical Thinking in Python (Part 2)</a>
+  In this Python project we will reanalyze the medical data Semmelweis collected. This project assumes that you are familiar with Python and pandas DataFrames, and you will also perform a bootstrap analysis.
 language       : python
 from           : 'python-notebooks-prod:v2.2.0'
 runtime_config : default
