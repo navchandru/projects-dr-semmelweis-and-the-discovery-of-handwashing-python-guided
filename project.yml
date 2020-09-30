@@ -9,6 +9,7 @@ long_description: |
 individual_description: In this project, you will reanalyze the medical data Semmelweis collected!
 
 group_key: discovery-of-handwashing
+is_guided: True
 
 language       : python
 from           : 'python-notebooks-prod:v2.2.0'
