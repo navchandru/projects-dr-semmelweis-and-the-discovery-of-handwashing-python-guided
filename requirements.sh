@@ -11,6 +11,5 @@ pip3 install matplotlib==2.0.2
 #	wget -O $DATADIR/$FILE $ASSETURL/$FILE
 #done
 
-
 #wget -O $DATADIR/monthly_deaths.csv $ASSETURL/monthly_deaths.csv
 #wget -O $DATADIR/yearly_deaths_by_clinic.csv https://s3.amazonaws.com/assets.datacamp.com/production/project_20/datasets/yearly_deaths_by_clinic.csv
